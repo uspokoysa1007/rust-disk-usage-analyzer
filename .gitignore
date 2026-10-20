@@ -1,0 +1,6 @@
+/target/
+**/*.rs.bk
+*.pdb
+releases/*.exe
+!releases/
+!releases/source_code.zip
